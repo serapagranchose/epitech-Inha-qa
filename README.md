@@ -1,4 +1,10 @@
+<img src="https://upload.wikimedia.org/wikipedia/en/b/be/InhaUniversityEmblem.png" width="75" height="75" align="right" />
+
 # Epitech Inha FAQ
+
+Une foire aux questions pour les étudiants Epitech  
+Par rapport à Inha Universities et à la vie en Corée du Sud en général
+
 ---
 # Table of content
 - [Documents](#documents)
@@ -26,7 +32,7 @@ Oui
 </details>
 
 <details>
-<summary><b>Que faut-il mettre dans ces documents pour l'intra' RI?</b></summary>
+<summary><b>Que faut-il mettre dans les documents à rendre sur l'intra' RI?</b></summary>
 Comment signer les documents? Est-on graduate? Le tepitech sert bien d'équivalent au test d'anglais ?
 </details>
 
@@ -39,6 +45,8 @@ Non
 <summary><b>Que ce passent-il si ont ne rend pas les documents sur l'intra' RI en temps et en heure?</b></summary>
 Non
 </details>
+
+<br/>
 
 <details>
 <summary><b>La periode d'inscription d'Inha ca dure combien de temps?</b></summary>
@@ -56,7 +64,7 @@ Oui
 </details>
 
 <details>
-<summary><b>Que faut-il mettre dans ces documents pour l'intra' d'Inha?</b></summary>
+<summary><b>Que faut-il mettre dans les documents à rendre sur l'intra' d'Inha?</b></summary>
 La plupart des trucs que l'intra RI demande, Faut mettre le GPA ou le GPA modif  
 </details>
 
@@ -77,7 +85,10 @@ Non
 
 <details>
 <summary><b>est ce qu'inha peut nous refuser car les visas sont bloqués ?</b></summary>
+Oui
 </details>
+
+<br/>
 
 <details>
 <summary><b>Quel autres documents faut-il pour rentrer en Coree du Sud</b></summary>
@@ -87,6 +98,7 @@ Le Visa, un justificatif de test de tuberculose, un test pcr negatif, un schema 
 <details>
 <summary><b>y'en a qui veulent passer le permis moto ?</b></summary>
 </details>
+<br/>
 
 
 ## Vols
@@ -99,6 +111,7 @@ Le Visa, un justificatif de test de tuberculose, un test pcr negatif, un schema 
 <summary><b>on doit faire un test pcr négatif pour l'avion pour la Corée?</b></summary>
 oui
 </details>
+<br/>
 
 
 ## Campus
@@ -137,6 +150,7 @@ oui
 <summary><b>C'est quoi Lab Activities?</b></summary>
 oui
 </details>
+<br/>
 
 
 ## Cours
@@ -200,6 +214,7 @@ oui
 <summary><b>Cours coreen ca entrain a la lecture?</b></summary>
 oui
 </details>
+<br/>
 
 
 ## Fonds
@@ -283,6 +298,7 @@ oui
 <summary><b>Pour le loyer tu peux payé par virement sinon ?</b></summary>
 oui
 </details>
+<br/>
 
 
 ## Sante
@@ -314,9 +330,10 @@ oui
 <details>
 <summary><b>Le test du tuberculose c'est bien 2 mois avant de partir ?</b></summary>
 </details>
+<br/>
 
 
-## Alimentaire
+## Alimentaires
 
 <details>
 <summary><b>Faut qu'on s'occupe de la bouffe pendant la quarantaine ?</b></summary>
@@ -329,6 +346,7 @@ oui
 <details>
 <summary><b>alternative UberEat?</b></summary>
 </details>
+<br/>
 
 
 ## Logements
@@ -440,6 +458,7 @@ oui
 <details>
 <summary><b>Pour le loyer tu peux payé par virement sinon ?</b></summary>
 </details>
+<br/>
 
 
 ## Reseaux
@@ -452,6 +471,7 @@ oui
 <summary><b>Pour le reseau mobile c'est genre 4G ou un truc éclaté ?</b></summary>
 Oui
 </details>
+<br/>
 
 
 ## Transports
@@ -460,6 +480,7 @@ Oui
 <summary><b>Oui</b></summary>
 Oui
 </details> 
+<br/>
 
 
 ## Langues
@@ -478,6 +499,7 @@ Oui
 <summary><b>l'anglais c'est pas ouf en Corée non ?</b></summary>
 Oui
 </details> 
+<br/>
 
 
 ## Sports
@@ -501,6 +523,7 @@ Oui
 <summary><b>Ils font du ski en coree?</b></summary>
 Oui
 </details> 
+<br/>
 
 
 ## Autres
